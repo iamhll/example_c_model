@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'xkmsc'
+project = 'example_c_model'
 copyright = '2022, llhuang'
 author = 'llhuang'
 
